@@ -34,5 +34,4 @@ Instalar o Java: https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
 Instalar JDK: https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
 Verificar se o JAVA_HOME está configurado no seu computador
 
-Para clonar o projeto
-git clone > https://github.com/mariacireno/TesteSellenium.git
+
