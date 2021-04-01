@@ -35,3 +35,17 @@ Instalar JDK: https://www.oracle.com/br/java/technologies/javase/javase-jdk8-dow
 Verificar se o JAVA_HOME está configurado no seu computador<br>
 
 
+<b>Instruções para rodar</b><br>
+Entrar no diretório onde foi clonado o projeto (exemplo):
+cd ~/workspace/projects/TesteSellenium
+Executando teste no Unix:<br>
+./test.sh
+Executando teste no Windows:<br>
+test.bat
+Instruções para limpar e validar o Maven<br>
+Executar o seguinte comando no Windows:<br>
+mvnw.cmd clean<br>
+Executar o seguinte comando no Unix:<br>
+./mvnw clean
+
+
