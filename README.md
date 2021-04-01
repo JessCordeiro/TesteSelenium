@@ -2,7 +2,7 @@
 
 
 
-#Caso de teste
+Caso de teste
 Preencher formulários para enviar email no site Sampleapp
 
 Cenário:
@@ -23,7 +23,7 @@ Preenchimento de formulários e submissão de email
  Entao verifique na tela a mensagem "Sending e-mail success!"
 
 
-#Tecnologias utilizadas
+Tecnologias utilizadas
 Java: Linguagem de programacão para desenvolvedores orientada a objeto
 Maven: Gerenciador de dependências para o Java
 Cucumber: Framework responsável por traduzir uma linguagem humana em código Java utilizando algumas palavras reservadas
