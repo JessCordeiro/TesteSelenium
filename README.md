@@ -5,7 +5,7 @@
 Caso de teste
 Preencher formulários para enviar email no site Sampleapp
 
-<b>Cenário:
+<b>Cenário:</b><br>
 Preenchimento de formulários e submissão de email
 
  Dado que entrei no site "http://sampleapp.tricentis.com/101/app.php"<br>
@@ -23,13 +23,13 @@ Preenchimento de formulários e submissão de email
  Entao verifique na tela a mensagem "Sending e-mail success!"<br>
 
 
-Tecnologias utilizadas
+<b>Tecnologias utilizadas</b>
 Java: Linguagem de programacão para desenvolvedores orientada a objeto<br>
 Maven: Gerenciador de dependências para o Java<br>
 Cucumber: Framework responsável por traduzir uma linguagem humana em código Java utilizando algumas palavras reservadas<br>
 Selenium: Framework responsável por fazer a integracão do código Java com a linguagem Gherkin (Cucumber) e automatizando os testes<br>
 
-Pré-requisitos
+<b>Pré-requisitos</b>
 Instalar o Java: https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR<br>
 Instalar JDK: https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html<br>
 Verificar se o JAVA_HOME está configurado no seu computador<br>
