@@ -2,7 +2,7 @@
 
 
 
-##Caso de teste
+#Caso de teste
 Preencher formulários para enviar email no site Sampleapp
 
 Cenário:
@@ -23,16 +23,16 @@ Preenchimento de formulários e submissão de email
  Entao verifique na tela a mensagem "Sending e-mail success!"
 
 
-##Tecnologias utilizadas
+#Tecnologias utilizadas
 Java: Linguagem de programacão para desenvolvedores orientada a objeto
 Maven: Gerenciador de dependências para o Java
 Cucumber: Framework responsável por traduzir uma linguagem humana em código Java utilizando algumas palavras reservadas
 Selenium: Framework responsável por fazer a integracão do código Java com a linguagem Gherkin (Cucumber) e automatizando os testes
 
-##Pré-requisitos
+#Pré-requisitos
 Instalar o Java: https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
 Instalar JDK: https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
 Verificar se o JAVA_HOME está configurado no seu computador
 
-##Para clonar o projeto
+#Para clonar o projeto
 git clone > https://github.com/mariacireno/TesteSellenium.git
