@@ -5,7 +5,7 @@
 Caso de teste
 Preencher formulários para enviar email no site Sampleapp
 
-Cenário:
+<b>Cenário:
 Preenchimento de formulários e submissão de email
 
  Dado que entrei no site "http://sampleapp.tricentis.com/101/app.php"<br>
